@@ -600,6 +600,7 @@ int main(int argc, char *argv[]) {
 		}
 	}
 
+	start_time = chrono::steady_clock::now();
 
 	cerr<<"Preprocessing..."<<endl;
 	
