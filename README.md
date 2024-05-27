@@ -46,4 +46,4 @@ Exact computation of the permanents of matrices in the Block Diagonal class.
 
 ## bernoulli40.in
 
-A sample instance
+A sample matrix of size 40×40 whose entries are Bernoulli-distributed with parameter `0.1`.
